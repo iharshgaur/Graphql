@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="203b30ae-fb7b-46ba-b296-aa4a64730557" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,8 @@
       <updated>1634752592566</updated>
       <workItem from="1634752593744" duration="4357000" />
       <workItem from="1634757327763" duration="213000" />
-      <workItem from="1634757551574" duration="491000" />
+      <workItem from="1634757551574" duration="532000" />
+      <workItem from="1634758117678" duration="4000" />
     </task>
     <servers />
   </component>
@@ -77,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
