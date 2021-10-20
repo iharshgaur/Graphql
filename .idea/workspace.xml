@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -54,6 +54,7 @@
       <updated>1634752592566</updated>
       <workItem from="1634752593744" duration="4357000" />
       <workItem from="1634757327763" duration="213000" />
+      <workItem from="1634757551574" duration="127000" />
     </task>
     <servers />
   </component>
