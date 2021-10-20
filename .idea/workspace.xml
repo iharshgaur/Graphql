@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="203b30ae-fb7b-46ba-b296-aa4a64730557" name="Changes" comment="" />
+    <list default="true" id="203b30ae-fb7b-46ba-b296-aa4a64730557" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/server/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +43,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/server/src/Modals" />
     </key>
   </component>
@@ -54,11 +57,22 @@
       <updated>1634752592566</updated>
       <workItem from="1634752593744" duration="4357000" />
       <workItem from="1634757327763" duration="213000" />
-      <workItem from="1634757551574" duration="127000" />
+      <workItem from="1634757551574" duration="271000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
